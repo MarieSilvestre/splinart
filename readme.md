@@ -8,4 +8,4 @@ pip install splpinart
 
 or
 
-conda install -c gouarin splinart
+conda install -c silvestre splinart
