@@ -35,6 +35,7 @@ classifiers = [
     'Operating System :: Unix',
     'Operating System :: MacOS',
 ]
+dependencies = ["numpy", "matplotlib"]
 
 [tool.setuptools.dynamic]
 version = { attr = "splinart.version.__version__" }
