@@ -1,4 +1,4 @@
-nympydoc
+numpydoc
 nbsphinx
 nbsphinx-link
 myst-parser
